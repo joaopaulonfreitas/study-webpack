@@ -1,1 +1,1 @@
-console.log("Alterando configurações padrão com webpack.config.js");
+(()=>{"use strict";const o=function(o){console.log(`Olá ${o}`)};console.log("Alterando configurações padrão com webpack.config.js"),o("João Paulo"),o("Isabela Sousa")})();
