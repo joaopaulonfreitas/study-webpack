@@ -1,0 +1,1 @@
+console.log("Alterando configurações padrão com webpack.config.js");
